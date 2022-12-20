@@ -15,14 +15,14 @@ Here's a brief guide to our repositories and what's inside.
 
 ### Text Snippets
 
-For a single news article online, there is a lot of text snippets out there. To name just a few:
+There are various text snippets for journalistic texts online. To name just a few:
 
 - title and teaser
 - social media posts
 - newsletter summaries
 - search engine result page texts
 
-They all target a differnt audience, have different length and style.
+They all target a different audience, have different length and style.
 Writing them is tedious work. We try to automate this process. \
 This way, journalists have more time for high-quality research!
 
