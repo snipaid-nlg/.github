@@ -12,6 +12,7 @@ Here's a brief guide to our repositories and what's inside.
 
 - 📃 [demo](https://github.com/snipaid-nlg/demo): Our demo tool built on vanilla GPT-J.
 - ⚗️ [model-tuning](https://github.com/snipaid-nlg/model-tuning): A collection of jupyter notebooks with experiments on GPT-J model optimization.
+- 🧠 [model-server](https://github.com/snipaid-nlg/gptj-title-teaser-10k): A http server for our finetuned gpt-j model.
 
 ### Text Snippets
 
