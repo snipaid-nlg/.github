@@ -10,14 +10,14 @@ https://user-images.githubusercontent.com/36483428/217799289-7479b6ab-73fd-4a6f-
 
 Here's a brief guide to our repositories and what's inside.
 
-- 💻 [web-app](https://github.com/snipaid-nlg/web-app): A web app editor that generates title and teaser for you.
+- 💻 [web-app](https://github.com/snipaid-nlg/web-app): A web app editor that generates title and teaser snippets for you.
 - ⚙️ [model-server](https://github.com/snipaid-nlg/gptj-server): A http server for our finetuned GPT-J model.
 - 🧩 [wordpress-plugin](https://github.com/snipaid-nlg/wp-plugin): A wordpress plugin to receive text and snippets from the webapp.
 - 📃 [models](https://github.com/snipaid-nlg/gptj-model-tuning): A collection of available large language models for natural language generation.
 - ⚗️ [gptj-model-tuning](https://github.com/snipaid-nlg/gptj-model-tuning): A collection of jupyter notebooks for GPT-J finetuning.
 - 🔗 [demo](https://github.com/snipaid-nlg/demo): A demo that can be hosted with netlify.
 
-### Text Snippets
+### Why Text Snippets?
 
 There are various text snippets for journalistic texts online. To name just a few:
 
@@ -26,14 +26,18 @@ There are various text snippets for journalistic texts online. To name just a fe
 - newsletter summaries
 - search engine result page texts
 
-They all target a different audience, have different length and style.
-Writing them is tedious work. We try to automate this process. \
-This way, journalists have more time for high-quality research!
+They all target a different audience, have different length and style. Writing them is tedious work. \
+SnipAId automates this process to free up time for all the writers out there!
 
 ## 🎉 Live Demo
 
 Our demo is live at [snipaid.tech](https://snipaid.tech). \
 Check it out and generate some snippets yourself.
+
+### Currently supported features
+- headline generation
+- teaser generation
+- wordpress integration
 
 ## 💸 Sponsors
 
