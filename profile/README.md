@@ -27,7 +27,7 @@ There are various text snippets for journalistic texts online. To name just a fe
 - search engine result page texts
 
 They all target a different audience, have different length and style. Writing them is tedious work. \
-SnipAId automates this process to free up time for all the writers out there!
+SnipAId automates this process to free up time for the writer!
 
 ## 🎉 Live Demo
 
