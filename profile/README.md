@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/36483428/217799289-7479b6ab-73fd-4a6f-
 Here's a brief guide to our repositories and what's inside.
 
 - 💻 [web-app](https://github.com/snipaid-nlg/web-app): A web app editor that generates title and teaser snippets for you.
-- ⚙️ [model-server](https://github.com/snipaid-nlg/gptj-server): A http server for our finetuned GPT-J model.
+- ⚙️ [model-server](https://github.com/snipaid-nlg/gptj-model-server): A http server for our finetuned GPT-J model.
 - 🧩 [wp-plugin](https://github.com/snipaid-nlg/wp-plugin): A wordpress plugin to receive text and snippets from the webapp.
-- 📃 [models](https://github.com/snipaid-nlg/gptj-model-tuning): A collection of available large language models for natural language generation.
+- 📃 [models](https://github.com/snipaid-nlg/models): A collection of available large language models for natural language generation.
 - ⚗️ [gptj-model-tuning](https://github.com/snipaid-nlg/gptj-model-tuning): A collection of jupyter notebooks for GPT-J finetuning.
 - 🔗 [demo](https://github.com/snipaid-nlg/demo): A demo that can be hosted with netlify.
 
