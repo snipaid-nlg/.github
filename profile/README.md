@@ -35,6 +35,8 @@ Our demo is live at [snipaid.tech](https://snipaid.tech). \
 Check it out and generate some snippets yourself.
 
 ### Currently supported features
+
+- models GPT-J and BLOOMZ
 - headline generation
 - teaser generation
 - wordpress integration
