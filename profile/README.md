@@ -41,7 +41,7 @@ Check it out and generate some snippets yourself.
 
 ## 📝 Blog
 
-Our [blog](https://snipaid-nlg.github.io/) is the place for you, if you want to tag along on our learning journey. Over there we write about open source large language models and approaches on how to use them to assist the journalistic production process with generative AI. 
+Our [blog](https://snipaid-nlg.github.io/) is the place for you, if you want to tag along on our learning journey. Over there we write about open source large language models and approaches on how to use them to assist the journalistic production process with generative AI.  
 Stay tuned for new blog post every Tuesday and Thursday! 
 
 ## 💸 Sponsors
