@@ -1,8 +1,18 @@
-<img src="/profile/snipaid.png" width="400px" />
+<picture>
+  <source
+    srcset="/profile/logo-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="/profile/logo-light.png"
+    alt="Logo: Brain with green-wired synapses, next to it the text 'SnipAId'"
+    width="400px"
+  />
+</picture>
 
 ## ✍🏼 Hi there and welcome to our space 
 
-We build a tool that generates text snippets from journalistic texts.
+We built a tool that generates text snippets from journalistic texts.
 
 https://user-images.githubusercontent.com/36483428/217799289-7479b6ab-73fd-4a6f-ae20-35a7e76458ab.mp4
 
@@ -37,7 +47,7 @@ Plugins:
 
 Ressources and training:
 - 🧠 [models](https://github.com/snipaid-nlg/models): A collection of available large language models for natural language generation.
-- 📄 [datasets](https://github.com/snipaid-nlg/datasets)
+- 📄 [datasets](https://github.com/snipaid-nlg/datasets): A collecting of datasets and notebooks for evaluation.
 - ⚗️ [gptj-model-tuning](https://github.com/snipaid-nlg/gptj-model-tuning): A collection of jupyter notebooks for GPT-J finetuning.
 - 🦾 [igel-lora-finetune](https://github.com/snipaid-nlg/igel-lora-finetune-news-snippets): A repository for parameter-efficient instruction fine-tuning of IGEL with LoRA adapters.
 
@@ -61,7 +71,7 @@ Check it out and generate some snippets yourself.
 
 ## 📝 Blog
 
-Our [blog](https://snipaid-nlg.github.io/) is the place for you, if you want to tag along on our learning journey. Over there we write about open source large language models and approaches on how to use them to assist the journalistic production process with generative AI.
+Our [blog](https://snipaid-nlg.github.io/) is the place for you, if you want to read up on our learning journey. Over there we wrote about open source large language models and approaches on how to use them to assist the journalistic production process with generative AI.
 
 ## 💸 Sponsors
 
