@@ -14,7 +14,9 @@
 
 We built a tool that generates text snippets from journalistic texts.
 
-https://user-images.githubusercontent.com/36483428/217799289-7479b6ab-73fd-4a6f-ae20-35a7e76458ab.mp4
+https://github.com/snipaid-nlg/.github/assets/36483428/605ede95-017c-4334-9473-7df4d03ef668
+
+
 
 ### Why Text Snippets?
 
